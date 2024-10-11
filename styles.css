@@ -7,21 +7,18 @@ nav {
     padding: 10px;
 }
 
-/* Styling the list */
-.nav-list {
-    list-style: none; /* Removing bullets */
+.nav-bar {
+    list-style: none;
     padding: 0;
     margin: 0;
 }
 
-/* Display list items inline and add margin */
-.nav-list li {
+.nav-bar li {
     display: inline;
     margin-right: 1rem;
 }
 
-/* Style for the links */
-.nav-list li a {
+.nav-bar li a {
     text-decoration: none;
     color: black;
 }

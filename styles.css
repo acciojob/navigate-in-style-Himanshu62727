@@ -4,18 +4,18 @@ body {
     margin: 0;
 }
 
-.navbar {
+.list-items {
     background-color: #D3D3D3;
     padding: 10px;
 }
 
-.nav-list {
+.list-items {
     list-style: none;
     padding: 0;
     margin: 0;
 }
 
-.nav-item {
+.list-items {
     display: inline;
     margin-right: 1rem;
 }
